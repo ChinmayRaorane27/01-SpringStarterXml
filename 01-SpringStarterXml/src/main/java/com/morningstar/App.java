@@ -16,7 +16,9 @@ public class App {
 //    	Student student=factory.getBean("student", Student.class);
     	Student student=factory.getBean(Student.class);
     	
+    	
     	//step3:use student object
+    	System.out.println(student);
     	System.out.println(student);
     	
     	
