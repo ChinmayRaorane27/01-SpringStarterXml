@@ -8,7 +8,7 @@
 <bean id="student" class="com.morningstar.model.Student" scope="prototype">
 <property name="studentId" value="100"></property>
 <property name="studentName" value="chinmay"></property>
-<property name="studentScore" value="70"></property>
+<property name="studentScore" value="80"></property>
 
 </bean>
 
